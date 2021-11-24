@@ -1,5 +1,7 @@
 id: P000349
 initial_creation_type: ocr
+created_at: 14/03/2020
+last_modified_at: 24/11/2021
 source_metadata:
   id: bdr:W23625
   title: ཀློང་ཆེན་སྙིང་གི་ཐིག་ལེ་ལས་ཐུན་མོང་གི་སྔོན་འགྲོ་སེམས་སྦྱོང་རྣམ་པ་བདུན་དང་བླ་མ་རྒྱང་འབོད་ཀྱི་རྩ་བ་རྡོ་རྗེའི་ཚིག་འགྲེལ་མ་བུ་ལྷན་ཐབས།
@@ -12,10 +14,3 @@ source_metadata:
       volume_number: 1
       total_pages: 336
       base_file: v001.txt
-ebook_metadata:
-  title: ཀློང་ཆེན་སྙིང་གི་ཐིག་ལེ་ལས་ཐུན་མོང་གི་སྔོན་འགྲོ་སེམས་སྦྱོང་རྣམ་པ་བདུན་དང་བླ་མ་རྒྱང་འབོད་ཀྱི་རྩ་བ་རྡོ་རྗེའི་ཚིག་འགྲེལ་མ་བུ་ལྷན་ཐབས།
-  author: ''
-  sku: P000349
-  cover: cover.jpg
-  layers:
-  - pagination
