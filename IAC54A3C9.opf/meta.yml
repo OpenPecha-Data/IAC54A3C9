@@ -1,18 +1,28 @@
-id: P000349
+id: IAC54A3C9
+source: https://library.bdrc.io
+source_file: null
 initial_creation_type: ocr
-created_at: 14/03/2020
-last_modified_at: 2021-12-16 15:35:19.540987
+imported: '2020-03-14T10:25:09+00:00'
+last_modified: '2022-06-15T16:49:42.978739+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
 source_metadata:
   id: bdr:W23625
   title: ཀློང་ཆེན་སྙིང་གི་ཐིག་ལེ་ལས་ཐུན་མོང་གི་སྔོན་འགྲོ་སེམས་སྦྱོང་རྣམ་པ་བདུན་དང་བླ་མ་རྒྱང་འབོད་ཀྱི་རྩ་བ་རྡོ་རྗེའི་ཚིག་འགྲེལ་མ་བུ་ལྷན་ཐབས།
   author: ''
-  volumes:
-    e13f26346e344c678aa0dec2c7343eeb:
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  base:
+    A94D:
       image_group_id: I1KG12821
       title: Volume 1 of klong chen snying gi thig le las thun mong gi sngon 'gro
         sems sbyong rnam pa bdun/
-      volume_number: 1
       total_pages: 336
-      base_file: v001.txt
-  access: http://purl.bdrc.io/admindata/AccessOpen
-  restrictedInChina: false
+      order: 1
+      base_file: A94D.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
